@@ -9,8 +9,8 @@
 Hi, I am a Self-Driven and Motivated IT Engineer. Currently working as Associate Software Engineer in Contentstack. In possession of strong work ethic, creative ability and leadership skills. Skilled in Programming Languages such as Python, JavaScript, Node.js, MongoDB etc. 
 
 ## My Github Stats
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=buefy) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=buefy) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500px" height="350px" float="left"/>
 
 ![Saima’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Saima422&theme=buefy&show_icons=true&count_private=true)
