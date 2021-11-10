@@ -21,7 +21,7 @@ Hi, I am a Self-Driven and Motivated IT Engineer. Currently working as Associate
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="30px" height="30px"></img> &nbsp; &nbsp;
 <img src="https://static.cdnlogo.com/logos/c/18/css.svg" width="30px" height="30px"></img> &nbsp; &nbsp;
 <img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" width="30px" height="30px"></img> &nbsp; &nbsp;
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="40px" height="40px"></img> &nbsp; &nbsp;
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" width="40px" height="35px"></img> &nbsp; &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="30px" height="30px"></img> &nbsp; &nbsp;
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30px" height="30px"></img> &nbsp; &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px" height="30px"></img> &nbsp; &nbsp;
