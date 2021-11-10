@@ -31,8 +31,8 @@ Hi, I am a Self-Driven and Motivated IT Engineer. Currently working as Associate
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="30px" height="30px"></img> &nbsp; &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="30px" height="30px"></img> &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40px" height="35px"></img> &nbsp; &nbsp;
-<img src="https://c0.klipartz.com/pngpicture/189/584/sticker-png-bootstrap-react-software-framework-javascript-front-and-back-ends-web-design-web-design-text-logo-internet-css.png" width="40px" height="35px"></img> &nbsp; &nbsp;
-<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="40px" height="35px"></img> &nbsp; &nbsp;
+<img src="https://mpng.subpng.com/20180531/sas/kisspng-bootstrap-react-software-framework-javascript-fron-5b0f9b1ab26fd7.9058729715277494027309.jpg" width="30px" height="30px"></img> &nbsp; &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png" width="30px" height="30px"></img> &nbsp; &nbsp;
 
 ## Contact Me
 
