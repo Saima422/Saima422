@@ -34,10 +34,18 @@ Hi, I am a Self-Driven and Motivated IT Engineer. Currently working as Associate
 <img src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" width="30px" height="30px"></img> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png" width="30px" height="30px"></img> &nbsp; &nbsp;
 
+## Things I do for FUN!
+
+<a href="https://cssbattle.dev/player/samm04"><img src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" width="35px" height="30px"></img></a> &nbsp; &nbsp;
+<a href="https://codesandbox.io/u/Saima422"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codesandbox-512.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
+<a href="https://www.frontendmentor.io/profile/Saima422"><img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
+<a href="https://codepen.io/Saima04"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
+<a href="https://dev.to/samm02449250"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
+
+
 ## Contact Me
 
 <a href="https://github.com/Saima422"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
 <a href="https://www.instagram.com/samm_04_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/saima-sayed-6482481b9/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
-<a href="https://dev.to/samm02449250"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=+sayedssaima04@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="35px" height="30px"></img></a> &nbsp; &nbsp;
