@@ -30,8 +30,8 @@ Hi, I am a Self-Driven and Motivated IT Engineer. Currently working as Associate
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="50px" height="33px"></img> &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="30px" height="30px"></img> &nbsp; &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="30px" height="30px"></img> &nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40px" height="35px"></img> &nbsp; &nbsp;
-<img src="https://mpng.subpng.com/20180531/sas/kisspng-bootstrap-react-software-framework-javascript-fron-5b0f9b1ab26fd7.9058729715277494027309.jpg" width="30px" height="30px"></img> &nbsp; &nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40px" height="35px"></img> &nbsp;
+<img src="https://mpng.subpng.com/20180531/sas/kisspng-bootstrap-react-software-framework-javascript-fron-5b0f9b1ab26fd7.9058729715277494027309.jpg" width="40px" height="30px"></img> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png" width="30px" height="30px"></img> &nbsp; &nbsp;
 
 ## Contact Me
