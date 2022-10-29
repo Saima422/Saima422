@@ -31,17 +31,6 @@ Hi, I am a Self-Driven and Motivated IT Engineer. Currently working as Associate
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="30px" height="30px"></img> &nbsp; &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="30px" height="30px"></img> &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40px" height="35px"></img>
-<img src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" width="30px" height="30px"></img> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png" width="30px" height="30px"></img> &nbsp; &nbsp;
-
-## Things I do for FUN!
-
-<a href="https://cssbattle.dev/player/samm04"><img src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" width="35px" height="30px"></img></a> &nbsp; &nbsp;
-<a href="https://codesandbox.io/u/Saima422"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codesandbox-512.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
-<a href="https://www.frontendmentor.io/profile/Saima422"><img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
-<a href="https://codepen.io/Saima04"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Codepen-512.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
-<a href="https://dev.to/samm02449250"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
-
 
 ## Contact Me
 
