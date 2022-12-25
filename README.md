@@ -11,8 +11,8 @@ Hi, I am a Self-Driven and Motivated IT Engineer. Currently working as Associate
 ## My Github Stats
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=buefy) &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500px" height="350px" float="left"/>
-
+<!-- <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500px" height="350px" float="left"/>
+ -->
 ![Saima’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Saima422&theme=buefy&show_icons=true&count_private=true&width=400px)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saima422&date_format=M%20j%5B%2C%20Y%5D&theme=buefy)](https://git.io/streak-stats)
 
@@ -35,6 +35,5 @@ Hi, I am a Self-Driven and Motivated IT Engineer. Currently working as Associate
 ## Contact Me
 
 <a href="https://github.com/Saima422"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
-<a href="https://www.instagram.com/samm_04_/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/saima-sayed-6482481b9/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/saima-sayed/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="30px" height="30px"></img></a> &nbsp; &nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=+sayedssaima04@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="35px" height="30px"></img></a> &nbsp; &nbsp;
