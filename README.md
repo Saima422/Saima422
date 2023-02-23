@@ -2,11 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=Saima422)
 
-<img src="https://saima422.github.io/Image-JSON-Data-Repo/images/resume2.png" width="100%"/>
+<img src="https://saima422.github.io/Image-JSON-Data-Repo/images/LinkedIn%20Background%20Banner.png" width="100%"/>
 
 ## About Me
 
-Hi, I am a Self-Driven and Motivated IT Engineer. Currently working as Associate Software Engineer in Contentstack. In possession of strong work ethic, creative ability and leadership skills. Skilled in Programming Languages such as Python, JavaScript, Node.js, MongoDB etc. 
+As a software engineer, I'm passionate about creating and delivering effective, cutting-edge software solutions that meet the needs of businesses and end customers. What I find most rewarding about software development is the ability to turn an idea into a functional program that can have a tangible impact.
+
+During my nearly two years of experience at Contentstack, I have honed my ability to think critically, solve complex problems, and collaborate effectively with teams of all sizes by working on multiple projects.
+
+I am always eager to learn new skills and technologies and enjoy collaborating with others to bring ideas to life. My commitment to delivering value to clients and end-users through innovative software solutions that improve their productivity, efficiency, and overall experience remains unwavering. I am excited to connect with like-minded professionals and explore new opportunities to leverage my skills and expertise to create meaningful impact.. 
 
 ## My Github Stats
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -->
