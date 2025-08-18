@@ -13,14 +13,12 @@ For me, building software isn’t just about writing logic — it’s about crea
 
 
 <br />
-
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Saima422&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs,issues" height="150"/> -->
   <img src="https://streak-stats.demolab.com?user=Saima422&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 <br />
-
 <h4 align="left" style="font-family: Verdana, Geneva, sans-serif;">Tech Satck:</h4>
 <div style="display: flex; justify-content: left; gap: 10px; flex-wrap: wrap; margin-left: 30px;">
   <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -39,7 +37,6 @@ For me, building software isn’t just about writing logic — it’s about crea
 </div>
 
 <br />
-
 <h4 align="left" style="font-family: Verdana, Geneva, sans-serif;">Connect with me:</h4>
 <div style="display: flex; justify-content: left; gap: 10px; flex-wrap: wrap; margin-left: 30px;">
   <!-- <a href="https://saimasayed.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-E10098?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> -->
