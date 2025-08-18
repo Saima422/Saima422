@@ -1,11 +1,11 @@
 <h2 align="center" style="font-family: Verdana, Geneva, sans-serif;">👋 Welcome to My Space</h2>
 
-<p style="font-family: Verdana, Geneva, sans-serif; font-size: 16px;">
+<p style="font-family: Verdana, Geneva, sans-serif; font-size: 18px;">
 I’m <b>Saima</b>, a Software Engineer who loves solving problems and bringing ideas to life with code.  
 For me, building software isn’t just about writing logic — it’s about creating experiences that make people’s work (and lives) a little easier.
 </p>
 
-<ul style="font-family: Verdana, Geneva, sans-serif; font-size: 16px;">
+<ul style="font-family: Verdana, Geneva, sans-serif; font-size: 18px;">
   <li>🔭 Currently building at <b>Contentstack</b></li>
   <li>💬 Big believer in <i>learning by sharing</i></li>
   <li>☕ Fueled by coffee, curiosity, and clean code</li>
