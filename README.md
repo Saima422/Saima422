@@ -12,11 +12,11 @@ For me, building software isn’t just about writing logic — it’s about crea
 </ul>
 
 
-<br />
+<!-- <br />
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Saima422&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs,issues" height="150"/> -->
   <img src="https://streak-stats.demolab.com?user=Saima422&theme=tokyonight&hide_border=true" height="150"/>
-</div>
+</div> -->
 
 <br />
 <h4 align="left" style="font-family: Verdana, Geneva, sans-serif;">Tech Satck:</h4>
